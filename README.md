@@ -1,4 +1,6 @@
 ☁️ AWS-EKS-Security-Labs 🛡️
+
+
 This repository archives reports and configuration files (YAML) for hands-on labs focused on Kubernetes (EKS) deployment, security, networking, and observability within the AWS cloud environment.
 
 EKS Cluster Deployment and Decommissioning Lab Report Summary
